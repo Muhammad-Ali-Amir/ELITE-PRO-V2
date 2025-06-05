@@ -3,12 +3,12 @@ const chalk = require('chalk')
 
 //BOT SETTINGS//
 global.xprefix = '.'
-global.ownername = 'ElitePro'
+global.ownername = 'SHADOW'
 global.botname = 'ELITE-PRO-V2'
 global.ytname = "YT: EliteProTechs"
 global.socialm = "GitHub: EliteProTech"
 global.location = "Port Harcourt, Nigeria"
-global.ownernumber = '2348109263390'
+global.ownernumber = '923152456743'
 
 //BOT SETTINGS 2//
 global.premium = ["2348109263390"] //Premium 
